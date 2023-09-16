@@ -1,4 +1,3 @@
-### Hi there 👋
 - ### <img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Hi.gif" width="29" height="29"> **Hello world!** &nbsp;<img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Earth.gif" width="24" height="24">
 # I'm Manya Mishra &nbsp;<img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Mario_Hello_Big.gif" width="30" height="30">
 - 🌱 I’m currently learning Web development (Backend Developer).
